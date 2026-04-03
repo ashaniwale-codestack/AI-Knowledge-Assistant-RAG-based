@@ -54,6 +54,7 @@ Recursive file traversal
 ------------------------------------------------
 
 ## 📁 Project Structure
+
 backend/
 │
 ├── app/
@@ -202,4 +203,5 @@ GitHub + Websites + Documents + APIs → Unified AI Assistant
 -----------------------------------------------------------------------
 
 ⭐ If you found this useful, feel free to star the repo!
+
 -----------------------------------------------------------------------------------
