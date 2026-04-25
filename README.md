@@ -1,4 +1,4 @@
-# AI Knowledge Assistant (GitHub & Web RAG System)
+# AI Knowledge Assistant (GitHub & Web RAG System) - coming soon
 An AI-powered assistant that can scan GitHub repositories (single or entire organizations) and answer questions using a Retrieval-Augmented Generation (RAG) pipeline.
 
 --------------------------------------
